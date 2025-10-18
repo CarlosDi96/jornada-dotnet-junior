@@ -1,11 +1,11 @@
-# 🚀 Jornada .NET Júnior – Roadmap de 8 Semanas
+# 🚀 Jornada .NET Júnior
 
 Este repositório acompanha minha evolução na stack **.NET e C#**, com foco em **me tornar desenvolvedor backend júnior**.  
 Cada semana possui objetivos, estudos e entregas práticas que constroem um portfólio sólido com projetos reais.
 
 ---
 
-## 🗓️ Semana 1 – Fundamentos de C# (na prática)
+## 🗓️ Fundamentos de C# (na prática)
 
 🎯 **Objetivo:** dominar os fundamentos da linguagem e aplicar POO em pequenos projetos.
 
@@ -26,7 +26,7 @@ Cada semana possui objetivos, estudos e entregas práticas que constroem um port
 
 ---
 
-## 🗓️ Semana 2 – Primeira API REST
+## 🗓️ Primeira API REST
 
 🎯 **Objetivo:** criar e testar sua primeira API com ASP.NET Core.
 
@@ -47,7 +47,7 @@ Cada semana possui objetivos, estudos e entregas práticas que constroem um port
 
 ---
 
-## 🗓️ Semana 3 – Arquitetura e Boas Práticas
+## 🗓️ Arquitetura e Boas Práticas
 
 🎯 **Objetivo:** estruturar o código de forma limpa e organizada.
 
@@ -66,7 +66,7 @@ Cada semana possui objetivos, estudos e entregas práticas que constroem um port
 
 ---
 
-## 🗓️ Semana 4 – Autenticação e Autorização
+## 🗓️ Autenticação e Autorização
 
 🎯 **Objetivo:** implementar login e controle de acesso com JWT.
 
@@ -85,7 +85,7 @@ Cada semana possui objetivos, estudos e entregas práticas que constroem um port
 
 ---
 
-## 🗓️ Semana 5 – Projeto Intermediário: Catálogo de Produtos
+## 🗓️ Projeto Intermediário: Catálogo de Produtos
 
 🎯 **Objetivo:** aplicar tudo em um projeto mais robusto.
 
@@ -106,7 +106,7 @@ Cada semana possui objetivos, estudos e entregas práticas que constroem um port
 
 ---
 
-## 🗓️ Semana 6 – Integração com Front-end
+## 🗓️ Integração com Front-end
 
 🎯 **Objetivo:** conectar a API com uma interface visual.
 
@@ -125,7 +125,7 @@ Cada semana possui objetivos, estudos e entregas práticas que constroem um port
 
 ---
 
-## 🗓️ Semana 7 – Testes e Documentação
+## 🗓️ Testes e Documentação
 
 🎯 **Objetivo:** garantir qualidade e profissionalismo no código.
 
@@ -144,7 +144,7 @@ Cada semana possui objetivos, estudos e entregas práticas que constroem um port
 
 ---
 
-## 🗓️ Semana 8 – Projeto Final e Portfólio
+## 🗓️ Projeto Final e Portfólio
 
 🎯 **Objetivo:** consolidar tudo em um projeto completo.
 
